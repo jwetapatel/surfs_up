@@ -48,6 +48,6 @@ In order to provide a more end-user friendly statitsics analysis, I created hist
 
 ![dec_temp_hist layout](https://user-images.githubusercontent.com/96400887/173909037-591b7dc7-32ab-412a-8c56-9ef289b1f70e.png)
 
-The results showed that weather in Oahu is fairly stable year round with temperatures ranging from roughly 56 to 85 degrees Farenheit from June to December.
-As per above data and analysis I would recommend opening the surf shop in Oahu as this seems like a great location with moderate temperatures great for surfing and ice cream.
+- The results showed that weather in Oahu is fairly stable year round with temperatures ranging from roughly 56 to 85 degrees Farenheit from June to December.
+- As per above data and analysis I would recommend opening the surf shop in Oahu as this seems like a great location with moderate temperatures great for surfing and ice cream.
 
