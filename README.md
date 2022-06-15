@@ -21,7 +21,8 @@ We received W. Avy's data on Hawaii weather collections as a sqllite file, which
 
 Here are the basic statistics for the two months in comparison: June (F°) December (F°) in Hawaii
 
-![june_temp](https://user-images.githubusercontent.com/96400887/173908185-c207d057-bb65-49af-81b7-1d7c8f66d5a7.png)  ![june_temp](https://user-images.githubusercontent.com/96400887/173908213-dd6d15e8-1a4b-47e9-bf72-d319ea909670.png)
+![june_temp](https://user-images.githubusercontent.com/96400887/173908185-c207d057-bb65-49af-81b7-1d7c8f66d5a7.png)  ![dec_tem](https://user-images.githubusercontent.com/96400887/173908332-4023c2c2-fae8-4e5b-a914-be1203ad9428.png)
+
 
 
 
