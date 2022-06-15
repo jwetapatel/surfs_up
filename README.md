@@ -1,4 +1,4 @@
-![june_temp](https://user-images.githubusercontent.com/96400887/173907458-7777ce87-e35f-436d-b766-7d3482e4bec7.png)
+
 # surfs_up
 
 # Purpose
@@ -19,10 +19,14 @@ The business concept is a combination surf and ice cream shop and the potenetial
 
 We received W. Avy's data on Hawaii weather collections as a sqllite file, which can be found in this repository. We were able to quickly and succinctly compare values for June and December, meaning we could do this for other months using different queires and mayde for other locations if W. Avy has other datasets for the other islands he's thinking about of if we could find one ourselves.
 
+Here are the basic statistics for the two months in comparison: June (F°) December (F°) in Hawaii
 
-![june_temp](https://user-images.githubusercontent.com/96400887/173907514-6ab982e2-d56a-4535-b6d7-e9acdd17e6ed.png)
+![june_temp](https://user-images.githubusercontent.com/96400887/173908185-c207d057-bb65-49af-81b7-1d7c8f66d5a7.png)  ![june_temp](https://user-images.githubusercontent.com/96400887/173908213-dd6d15e8-1a4b-47e9-bf72-d319ea909670.png)
 
-![dec_tem](https://user-images.githubusercontent.com/96400887/173907544-5116ff36-5106-4412-a67d-d657e17f4b59.png)
+
+
+
+
 
 
 
